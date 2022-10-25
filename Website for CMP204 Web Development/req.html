@@ -1,0 +1,151 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Requirements page</title>
+    <link rel="stylesheet" href="reqStyle.css">
+</head>
+<body>
+
+    <h1>CMP204 Requirements Page - Unit 2 Assessment</h1>
+
+    <p>If you have not met a requirement, do not delete it from the table.</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th class="reqCol">Requirement</th>
+                <th class="metCol">How did you meet this requirement?</th>
+                <th class="fileCol">File name(s), line no.</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>HTML, CSS, JavaScript has been contained within separate files.</td>
+                <td>They have all been put in seperate files even Jquery is seperated</td>
+                <td>Javascript folder/ scripts.js, jquery_function.js  CSS/ style.css  HTML/ in the main folder</td>
+            </tr>
+
+            <tr>
+                <td>A clear use of HTML5.</td>
+                <td>The entirety of the page is written in HTML5 and HTML5 specified tags have been used</td>
+                <td>header and footer tags have been used in all the pages as have the nav tags</td>
+            </tr>
+            <tr>
+                <td>Use of the Bootstrap framework providing a responsive layout.</td>
+                <td>
+                    I have made use of Bootstrap's navbar class throughout all the pages and have used bootstrap to make the cookies section
+                    more appealing for user's. I have also made use of bootstrap's jumbotron to mark the top of each page.
+                </td>
+                <td>Demonstrated throughout website</td>
+            </tr>
+            <tr>
+                <td>Use of JavaScript to manipulate the DOM based on an event.</td>
+                <td>
+                    Javascript has been used to implement a way to display a different image when the button is pressed.
+                    This allows more content to be put into the page without any extra space being taken up. I have also added text inside the same area using Javascript.
+                </td>
+                <td>meetband.html and script.js</td>
+            </tr>
+            <tr>
+                <td>Use of jQuery in conjunction with the DOM.</td>
+                <td>JQuery has been used on the band members images to make text appear instead to add some more interactivity to the webpages and shorten it down</td>
+                <td>meetband.html and jquery_functions.js</td>
+            </tr>
+            <tr>
+                <td>Use of AJAX (pure JavaScript i.e. without the use of a library).</td>
+                <td>
+                    Pure AJAX has been used to change the iframe to spotify from youtube or vice versa, this allows users to choose the platform
+                    they will listen on. Allows user choice
+                </td>
+                <td>index.html and script.js</td>
+            </tr>
+            <tr>
+                <td>Use of the jQuery AJAX function.</td>
+                <td>
+                    Jquery has been used to implement a way to add text from a file on the server which is an interview log from the lead singer, Alex Rice.
+                </td>
+                <td>Shown on index.html and jquery_functions.js</td>
+            </tr>
+            <tr>
+                <td>User login functionality (PHP/MySQL).</td>
+                <td>
+                    The user is able to go to the sign-in/sign-up page and create an account with their own password, username and email; which is then uploaded to the database and stored.
+                    Then they are brought to the sign-in page and are asked for their username and password, which is then checked against the records held within the database.
+                    if they match they will be brought to the home page where they can delete, edit and view their account information.
+                </td>
+                <td>SigninScript.php, SignupScript.php and home.php</td>
+            </tr>
+            <tr>
+                <td>Ability to select (SELECT), add (INSERT), edit (UPDATE) and delete (DELETE) information from a database (PHP/MySQL).</td>
+                <td>
+                    Select - the log in functionality makes use of the SQL SELECT statement
+                    Add - Users can create an account, whereby they add username, password and email to the database <br>
+                    Edit - Users can change their password, email and username through the User home page <br>
+                    Delete - Users can delete their account through the User home page
+                </td>
+                <td>
+                    Select - SigninScript.php  - for SQL SELECT statement
+                    <br />
+                    Add - SignupScript.php - for SQL INSERT statement
+                    <br />
+                    Edit - PasswordReset.php, EmailChange.php and UsernameChange.php - for SQL UPDATE statement
+                    <br />
+                    Delete - Delete.php - for SQL DELETE statement
+                </td>
+            </tr>
+            <tr>
+                <td>Consideration of GDPR and the Cookie Law.</td>
+                <td>
+                    A notification that pops up when the user first enters the page that notifies them about cookies.
+                    Afterwards they are told to read the page about cookies and GDPR so they know what data is being kept and why so it complies with
+                    the regulations of GDPR. <br /> While this is not related with GDPR and the cookie law, The entire page has been checked with the accessiblity
+                    checker to ensure anyone is able to use the page comfortably
+                </td>
+                <td>script.js, cookies.html</td>
+            </tr>
+            <tr>
+                <td>SQL queries written as prepared statements.</td>
+                <td>
+                    SQL connection string set to $conn variable in both SigninScript.php and SignupScript.php with server creds
+                    passed to mysqli_connect() function as arguments and expressed in the SQL queries as ?. additionally usage
+                    of the mysqli_prepare(); function is used in both instances. Further more for the mysqli prepare i have
+                    instead tried to write most of it as object orientated.
+                </td>
+                <td>SigninScript.php, SignupScript.php</td>
+            </tr>
+            <tr>
+                <td>Passwords should be salted and hashed.</td>
+                <td>
+                    PHP function password_hash used, using bcrypt algorithm (which is default in PHP as of v5.5.0), salt is
+                    generated by default in this function, and is the preferred method as of v 7.0.0 due to the fact that the
+                    salt function is deprecated.
+                    <br>
+                    password_verify performs the same hashing function but also compares the value of the user input (after
+                    hashing) to the value of the hashed password in the database
+                </td>
+                <td>inside of the SigninScript.php and SignupScript.php</td>
+            </tr>
+            <tr>
+                <td>User input is sanitised.</td>
+                <td>
+                    All of the users inputs have the html5 tag "required" on the tags of input so they cannot leave the field empty and furthermore
+                    all of inputs get sanitised by making sure that any extra spaces are removed as are the backslashes. And for the passwords, when it is
+                    being set or changed it has to meet certain rules:
+                    Minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character. This is achieved with the preg_match() function
+                    <br> Since the input type of email is selected it ensures it follows a format of email@example.com
+                </td>
+                <td>PasswordReset.php, EmailChange.php, UsernameChange.php, SigninScript.php, SignupScript.php; This is where to find all the validation</td>
+            </tr>
+        </tbody>
+
+
+
+    </table>
+
+</body>
+</html>
+
+
