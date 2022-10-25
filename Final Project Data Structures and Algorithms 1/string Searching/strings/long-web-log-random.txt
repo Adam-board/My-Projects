@@ -1,0 +1,811 @@
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+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
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+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
+
+
+
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE ...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /favicon.ico HTTP/1.1" 404 1997 www.yahoo.com 
+   "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3)..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:15 -0400] "GET 
+   /style.css HTTP/1.1" 200 4138 www.yahoo.com 
+   "http://www.yahoo.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:16 -0400] "GET 
+   /js/ads.js HTTP/1.1" 200 10229 www.yahoo.com 
+   "http://www.search.com/index.html" "Mozilla/5.0 (Windows..." "-"
+192.168.72.177 - - [22/Dec/2002:23:32:19 -0400] "GET 
+   /search.php HTTP/1.1" 400 1997 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:37 -0400] "GET 
+   / HTTP/1.1" 200 6394 www.yahoo.com 
+   "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1...)" "-"
+192.168.198.92 - - [22/Dec/2002:23:08:38 -0400] "GET 
+   /images/logo.gif HTTP/1.1" 200 807 www.yahoo.com 
+   "http://www.some.com/" "Mozilla/4.0 (compatible; MSIE 6...)" "-"
+192.168.72.177 - - [22/Dec/2002:23:32:14 -0400] "GET 
+   /news/sports.html HTTP/1.1" 200 3500 www.yahoo.com 
+
+
+
+
+
+
